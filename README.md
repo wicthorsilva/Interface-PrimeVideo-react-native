@@ -1,1 +1,1 @@
->>>  npx expo start  <<< run project
+>>  npx expo start  << run project
